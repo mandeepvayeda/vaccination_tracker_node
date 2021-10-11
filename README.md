@@ -1,7 +1,7 @@
 # vaccination_tracker_node
 
 <h3>run db migration -> npm run migrate <h3>
-<h2>API desc and inplementation -> end point<h2>
+<h2>API desc and implementation -> end point<h2>
 <h4>1) update user dets with unique aadhar_number and location in body json -> ip/users/updateUser<h4>
 <h4>2) returns a report of daily, weekly, monthly, yearly vaccinated users count -> ip/users/userCount<h4>
 <h4>3) returns user by by state. state string is passed in body as json -> ip/users/state<h4>
